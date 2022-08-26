@@ -71,6 +71,10 @@ margin-left: 33px;
   width: calc(var(--cell-size) * 3);
   height: calc(var(--cell-size) * 3);
   grid-template-columns: repeat(3, auto);
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 .cell {
